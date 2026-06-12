@@ -5,6 +5,7 @@ navigate to Google Maps using a hardcoded location, and view notification tag an
 
 # API Details
 Base URL : https://jsonplaceholder.typicode.com/
+
 Endpoint : GET /posts
 
 # Tech Stack
